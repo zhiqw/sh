@@ -1,4 +1,4 @@
 # jsdelivr
 ~~~
- curl -fsSL  https://cdn.jsdelivr.net/gh/zhiqw/sh@master/install/***.sh | bash
+ curl -fsSL  https://cdn.jsdelivr.net/gh/zhiqw/sh@master/***.sh | bash
 ~~~
