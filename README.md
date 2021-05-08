@@ -1,4 +1,6 @@
+[![](https://data.jsdelivr.com/v1/package/gh/zhiqw/sh/badge)](https://www.jsdelivr.com/package/gh/zhiqw/sh)
+
 # jsdelivr
 ~~~
- curl -fsSL  https://cdn.jsdelivr.net/gh/zhiqw/sh@master/***.sh | bash
+https://cdn.jsdelivr.net/gh/zhiqw/sh@master/
 ~~~
